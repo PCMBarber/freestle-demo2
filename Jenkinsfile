@@ -15,6 +15,8 @@ pipeline {
             steps {
                 sh '''
                 echo "Hi Class, this is a pipeline"
+                echo "HEY HEY YOU YOU"
+                echo "I DON'T LIKE YOUR GIRLFRIEND"
                 '''
             }
             // This is a comment  2
