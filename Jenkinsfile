@@ -17,7 +17,7 @@ pipeline {
                 echo "Hi Class, this is a pipeline"
                 '''
             }
-            // This is a comment
+            // This is a comment  2
         }
     }
 }
